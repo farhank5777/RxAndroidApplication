@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RxCustomExample"></activity>
+        <activity android:name=".OperatorExample"></activity>
+        <activity android:name=".RxCustomExample" />
         <activity android:name=".ExampleCompositeDisposable" />
         <activity android:name=".ExampleActivity" />
         <activity android:name=".MainActivity">
